@@ -2,7 +2,7 @@
 def display_board
   puts "A Tic Tac Toe Board"
   row = ["   ","|","   ","|","   "]
-  line = [-----------]
+  line = ["-----------"]
   puts row
   puts line
   puts row
